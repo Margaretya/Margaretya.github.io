@@ -1,6 +1,6 @@
 # 📖 Educations
-- *2021.03 - 2025.07*, PhD, Computer Science, University of Liverpool, UK. 
-- *2017.09 - 2019.06*, Master, Electrical and Computer Engineering. Minor, Computer Science. Oregon State University, US. 
+- *2021.03 - 2025.07*, PhD, Computer Science, University of Liverpool, U.K. 
+- *2017.09 - 2019.06*, Master, Electrical and Computer Engineering. Minor, Computer Science. Oregon State University, U.S. 
 - *2012.09 - 2016.06*, Bachelor, Electrical Engineering and Automation. Shihezi University, China.
   
 # 💻 Experiences

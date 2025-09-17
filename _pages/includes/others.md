@@ -5,7 +5,7 @@
   
 # 💻 Experiences
 - *2021.03 - 2025.06*, Teaching Assistant, [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/), China.
-- *2020.04 - 2021.02*, 智能制造工程师 Intelligent Manufacturing Engineer, [上海晨光文具股份有限公司](http://www.mg.pen.com), China.
+- *2020.04 - 2021.02*, 智能制造工程师 Intelligent Manufacturing Engineer, [上海晨光文具股份有限公司](http://www.mgplus.cn/), China.
 
 # 🚀 Skills
 - *2012.06 -now*, Dancing (HipHop & Jazz)
